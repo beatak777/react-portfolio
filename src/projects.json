@@ -8,24 +8,24 @@
         "deployed": "link to deployed"
     },
     {
-        "id": 1,
-        "title": "Project 1",
+        "id": 2,
+        "title": "Project 2",
         "description": "This is the first project of my portfolio",
         "image": "",
         "github": "link to repo",
         "deployed": "link to deployed"
     },
     {
-        "id": 1,
-        "title": "Project 1",
+        "id": 3,
+        "title": "Project 3",
         "description": "This is the first project of my portfolio",
         "image": "",
         "github": "link to repo",
         "deployed": "link to deployed"
     },
     {
-        "id": 1,
-        "title": "Project 1",
+        "id": 4,
+        "title": "Project 4",
         "description": "This is the first project of my portfolio",
         "image": "",
         "github": "link to repo",
