@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "title": "Project 1",
+        "description": "This is the first project of my portfolio",
+        "image": "",
+        "github": "link to repo",
+        "deployed": "link to deployed"
+    },
+    {
+        "id": 1,
+        "title": "Project 1",
+        "description": "This is the first project of my portfolio",
+        "image": "",
+        "github": "link to repo",
+        "deployed": "link to deployed"
+    },
+    {
+        "id": 1,
+        "title": "Project 1",
+        "description": "This is the first project of my portfolio",
+        "image": "",
+        "github": "link to repo",
+        "deployed": "link to deployed"
+    },
+    {
+        "id": 1,
+        "title": "Project 1",
+        "description": "This is the first project of my portfolio",
+        "image": "",
+        "github": "link to repo",
+        "deployed": "link to deployed"
+    }
+]
