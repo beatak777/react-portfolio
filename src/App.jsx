@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import MyNav from './components/Navbar';
-import { Home, Contact, ProjectGallery, Costum404 } from './components/Pages';
+import { Home, Contact, ProjectGallery, Custom404 } from './components/Pages';
 import './App.css'
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
         <Route path='/home' element={<Home />} />
         <Route path='/portfolio' element={<ProjectGallery />} />
         <Route path='/contact' element={<Contact />} />
-        <Route path='/404' element={<Costum404 />} />
+        <Route path='/404' element={<Custom404 />} />
 
       </Routes>
     </Router>
