@@ -1,9 +1,10 @@
 const Home = () => {
-    return(
+
+  return (
     <>
-    <h1>Welcome to my portfolio site!</h1>
+      <h1>Welcome to my portfolio site!</h1>
     </>
-    )
+  )
 }
 
 export default Home;

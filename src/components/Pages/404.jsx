@@ -1,9 +1,9 @@
 const Custom404 = () => {
-    return (
-        <>
-        <h1>404 Error. Page is under construction. Please come back later.</h1>
-        </>
-    )
+  return (
+    <>
+    <h1>404 You've reached the undiscovered country! Please use your back button to go back.</h1>
+    </>
+  )
 }
 
 export default Custom404;

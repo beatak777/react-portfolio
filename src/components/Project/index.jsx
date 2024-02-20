@@ -10,8 +10,8 @@ function ProjectCard({ project }) {
         <Card.Text>
           {project.description}
         </Card.Text>
-        <a href=""><Button variant="primary">Repo</Button></a>
-        <a href=""><Button variant="primary">Deployed site</Button></a>
+          <a href=''><Button variant="primary">Repo</Button></a>
+        <a href=''><Button variant="primary">Deployed site</Button></a>
       </Card.Body>
     </Card>
   );

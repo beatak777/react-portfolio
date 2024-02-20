@@ -1,9 +1,10 @@
 const Contact = () => {
-    return(
+
+  return (
     <>
-    <h1>Contact me here!</h1>
+      <h1>Contact me here!</h1>
     </>
-    )
+  )
 }
 
 export default Contact;
